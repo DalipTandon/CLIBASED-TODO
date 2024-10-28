@@ -1,0 +1,21 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "CLI based TODO app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dalip Tandon",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.8.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.0.1",
+    "nanospinner": "^1.1.0"
+  }
+}
